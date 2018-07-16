@@ -1,3 +1,3 @@
 <?php
 
-echo 'welcome php';
+echo 'welcome php new';
