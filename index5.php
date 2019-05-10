@@ -1,3 +1,3 @@
 <?php
 
-echo 'this is php 4';
+echo 'this is php 6';
