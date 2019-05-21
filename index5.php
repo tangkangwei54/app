@@ -1,5 +1,5 @@
 <?php
 
 
-echo '222';
+echo 'index5';
 
