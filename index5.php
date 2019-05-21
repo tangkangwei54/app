@@ -1,6 +1,7 @@
 <?php
 
 
-echo 'index5';
-111
+
+echo 'solved';
+
 
